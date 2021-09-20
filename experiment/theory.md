@@ -111,8 +111,9 @@ Latex agglutination test includes some of the advantages .They are,
 By performing 2- to 10-fold  dilutions of specimens  we can obtain the semi quantitative results .Latex  agglutination test have some disadvantages also  which include
 
 
-1.Need to carefully interpret marginal results and
-2.  Problems with specificity due to interfering substances in many assays.
+1.Need to carefully interpret marginal results 
+
+2.Problems with specificity due to interfering substances in many assays.
 
  
 
